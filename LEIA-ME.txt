@@ -1,0 +1,24 @@
+* Linguagem:
+
+Esse script foi feito em python, ou seja, para executar-lo precisa do Python instalado.
+
+apt-get install python && apt-get install python2
+
+* Requerimentos:
+
+pip install selenium
+pip install argparse
+
+* Para executar o script:
+
+python wpp_bomb.py -m "Sua mensagem vai aqui" -n "Nome do grupo/contato" -q quantidade -b chrome ou firefox
+
+* Atençao
+
+Quando abrir o navegador: Coloque o QRCode em seu celular
+Quando o Whatsapp abrir, volte para o terminal, digite Y e depois ENTER
+
+* Creditos
+
+Desenvolvido por: SR.ALTO
+Suporte: XDie
